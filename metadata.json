@@ -1,0 +1,6 @@
+{
+  "name": "VeriGrant - Grant Governance & SGX Sustainability Platform",
+  "description": "Consolidated grant tracking, budget and deliverable governance, faster disbursement, and automated SGX-compliant sustainability and board reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
